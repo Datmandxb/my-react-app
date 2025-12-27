@@ -6,7 +6,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 sm:px-8 lg:px-12">
           <div className="flex items-center justify-between h-24">
             <div className="text-2xl font-serif font-light tracking-wide text-[#1a1a1a]">
-              Cruising Obstacles
+              Cruising Obstacles Online
             </div>
             <div className="hidden md:flex items-center gap-10">
               <a href="#how-it-works" className="text-[#4a4a4a] hover:text-[#1a1a1a] transition-colors text-sm tracking-wide uppercase">
@@ -34,12 +34,12 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="max-w-5xl">
             <h1 className="text-6xl sm:text-7xl lg:text-8xl font-serif font-light leading-[1.1] tracking-tight text-[#1a1a1a] mb-8">
-              Find Your Path to{" "}
+              Move Through Obstacles with{" "}
               <span className="font-normal text-[#8b6914]">Calm Clarity</span>
             </h1>
             <p className="text-2xl sm:text-3xl text-[#4a4a4a] leading-relaxed mb-12 max-w-3xl font-light">
-              Holistic life coaching that integrates mind, body, and spirit. 
-              Rediscover forward momentum through personalized guidance.
+              Life coaching that combines clarity-focused guidance with movement and energy work. 
+              Build forward momentum with personalized support, wherever you are in the world.
             </p>
             <div className="flex flex-col sm:flex-row gap-5 mb-8">
               <a
@@ -56,7 +56,7 @@ export default function Home() {
               </a>
             </div>
             <p className="text-sm text-[#6a6a6a] tracking-wider uppercase">
-              Based in Dubai • Online worldwide
+              Online coaching worldwide • Based in Dubai
             </p>
           </div>
         </div>
@@ -328,7 +328,7 @@ export default function Home() {
                 <p className="text-[#4a4a4a] leading-relaxed font-light text-lg pt-4 border-t border-[#e8e6e3]">
                   Placeholder answer explaining how the integration of life coaching, movement practices, 
                   and Reiki healing creates a more comprehensive transformation than any single modality 
-                  alone. Edit to highlight what sets Cruising Obstacles apart.
+                  alone. Edit to highlight what sets Cruising Obstacles Online apart.
                 </p>
               </div>
             </details>
@@ -428,10 +428,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-4 gap-16 mb-16">
             <div className="md:col-span-2">
-              <div className="text-3xl font-serif font-light text-white mb-6 tracking-wide">Cruising Obstacles</div>
+              <div className="text-3xl font-serif font-light text-white mb-6 tracking-wide">Cruising Obstacles Online</div>
               <p className="text-[#9a9a9a] leading-relaxed max-w-md font-light text-lg">
-                Holistic life coaching, movement, and energy healing in Dubai and worldwide. 
-                Transforming obstacles into opportunities for clarity, resilience, and alignment.
+                Life coaching, movement, and energy healing delivered online worldwide. 
+                Moving through obstacles with calm strength, clarity, and forward momentum.
               </p>
             </div>
             <div>
@@ -487,7 +487,7 @@ export default function Home() {
           </div>
           <div className="pt-12 border-t border-[#3a3a3a] flex flex-col sm:flex-row justify-between items-center gap-6">
             <div className="text-[#6a6a6a] text-sm font-light">
-              © {new Date().getFullYear()} Cruising Obstacles. All rights reserved.
+              © {new Date().getFullYear()} Cruising Obstacles Online. All rights reserved.
             </div>
             <div className="text-sm text-[#9a9a9a] font-light tracking-wide">
               Available in English • Français • العربية
